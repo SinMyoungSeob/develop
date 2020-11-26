@@ -137,9 +137,7 @@ input[type=checkbox]:checked + label { background-image: url('/img/check_on.png'
 </div>
 
 <input type="checkbox" id="box1"><label for="box1"></label>
-
 <input type="checkbox" id="box2"><label for="box2">동의합니다.</label>
-
 <input type="checkbox" id="box3"><label for="box3">동의합니다.</label>
 
 </body>
